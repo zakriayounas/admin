@@ -1,0 +1,94 @@
+{
+  "login": [
+    {
+      "name": "zack",
+      "password": "0000"
+    }
+  ],
+  "project": [
+    {
+      "name": "Desi handi",
+      "email": "desihandi@gmail.com",
+      "rating": "5.0",
+      "address": "Faisalabad",
+      "id": 1
+    },
+    {
+      "name": "Pizza Bite",
+      "email": "pizzabite@gmail.com",
+      "rating": "4.9",
+      "address": "Mardan",
+      "id": 4
+    },
+    {
+      "name": "Mc'Donalds",
+      "email": "mcdonalds@gmail.com",
+      "rating": "4.8",
+      "address": "Lahore",
+      "id": 2
+    },
+    {
+      "name": "Meal of love",
+      "email": "mealoflove@gmail.com",
+      "rating": "4.7",
+      "address": "Sargodha",
+      "id": 3
+    },
+    {
+      "name": "Stone hills",
+      "email": "stonehills@gmail.com",
+      "rating": "4.6",
+      "address": "sadar",
+      "id": 5
+    },
+    {
+      "name": "Tikku tikka",
+      "email": "tikkutikka@gmail.com",
+      "rating": "4.5",
+      "address": "mumbai",
+      "id": 6
+    },
+    {
+      "name": "Hot dog's",
+      "email": "hotdogs@gmail.com",
+      "rating": "4.4",
+      "address": "new delhi",
+      "id": 7
+    },
+    {
+      "name": "Chill'n grill",
+      "email": "chillngrill@gmail.com",
+      "rating": "4.3",
+      "address": "islamabad",
+      "id": 8
+    },
+    {
+      "name": "fork'n knives",
+      "email": "forknknives@gmail.com",
+      "rating": "4.2",
+      "address": "malir",
+      "id": 9
+    },
+    {
+      "name": "Smoky meal",
+      "email": "smokymeal@gmail.com",
+      "rating": "4.1",
+      "address": "Atock",
+      "id": 10
+    },
+    {
+      "name": "first bite",
+      "email": "firstbite@gmail.com",
+      "rating": "4.0",
+      "address": "Hyderabad",
+      "id": 11
+    },
+    {
+      "name": "First Bite",
+      "email": "firstbite@gmail.com",
+      "rating": "3.9",
+      "address": "Sukkar",
+      "id": 12
+    }
+  ]
+}

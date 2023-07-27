@@ -1,0 +1,80 @@
+{
+  "login": [
+    {
+      "email": "admin@gmail.com",
+      "password": "test"
+    }
+  ],
+  "project": [
+    {
+      "name": "Pizza Bite",
+      "email": "pizzabite@gmail.com",
+      "rating": "5.0",
+      "address": "Mardan",
+      "id": 1
+    },
+    {
+      "name": " Tikka shop",
+      "email": "tikkashop@gmail.com",
+      "rating": "4.9",
+      "address": "Kotli",
+      "id": 2
+    },
+    {
+      "name": "Foo foo foody",
+      "email": "foofoofoody@gmail.com",
+      "rating": "4.7",
+      "address": "Murree",
+      "id": 4
+    },
+    {
+      "name": "Meal for Everyone",
+      "email": "mealforeveryone@gmail.com",
+      "rating": "4.6",
+      "address": "Multan",
+      "id": 5
+    },
+    {
+      "name": "Stone hills",
+      "email": "stonehills@gmail.com",
+      "rating": "4.5",
+      "address": "sadar",
+      "id": 6
+    },
+    {
+      "name": "Hot dog's",
+      "email": "hotdogs@gmail.com",
+      "rating": "4.4",
+      "address": "new delhi",
+      "id": 7
+    },
+    {
+      "name": "Chill'n grill",
+      "email": "chillngrill@gmail.com",
+      "rating": "4.3",
+      "address": "islamabad",
+      "id": 8
+    },
+    {
+      "name": "fork'n knives",
+      "email": "forknknives@gmail.com",
+      "rating": "4.2",
+      "address": "malir",
+      "id": 9
+    },
+    {
+      "name": "first bite",
+      "email": "firstbite@gmail.com",
+      "rating": "4.1",
+      "address": "Hyderabad",
+      "id": 10
+    },
+    {
+      "name": "Cozy haleem",
+      "email": "cozyhaleem@gmail.com",
+      "rating": "4.0",
+      "address": "Bhakkar",
+      "id": 11
+    }
+  ]
+}
